@@ -1,4 +1,5 @@
-
+![GitHub stars](https://img.shields.io/github/stars/AIM-IT4/Python-For-Quants)
+![GitHub forks](https://img.shields.io/github/forks/AIM-IT4/Python-For-Quants)
 # Introduction to Python for Quants
 
 This repository provides a foundational introduction to Python tailored for quantitative analysts and researchers (quants). Each section is demonstrated with Python code examples to help users understand and apply the concepts in practice.
